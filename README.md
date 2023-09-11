@@ -9,13 +9,13 @@
   <h3>Blogs</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div>
-      <a href="https://dev.to/iharishsh">
+      <a href="https://dev.to/iharishsh" target="_blank">
         <img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' />
       </a>
-      <a href="https://iharishsh.hashnode.dev/">
+      <a href="https://iharishsh.hashnode.dev/" target="_blank">
         <img src='https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white' />
       </a>
-      <a href="https://medium.com/@iharishsh">
+      <a href="https://medium.com/@iharishsh" target="_blank">
         <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
       </a>
     </div>
@@ -38,25 +38,25 @@
   <h3>Code</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div>
-      <a href="https://www.codechef.com/users/iharishsh">
+      <a href="https://www.codechef.com/users/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white' />
       </a>
-      <a href="https://codeforces.com/profile/madrasiharish">
+      <a href="https://codeforces.com/profile/madrasiharish" target="_blank">
       <img src='https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white' />
       </a>
-      <a href="https://codepen.io/iharishsh">
+      <a href="https://codepen.io/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' />
       </a>
-      <a href="https://www.hackerearth.com/@iharishsh">
+      <a href="https://www.hackerearth.com/@iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue' />
       </a>
-      <a href="https://www.hackerrank.com/iharishsh">
+      <a href="https://www.hackerrank.com/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' />
       </a>
-      <a href="https://leetcode.com/iharishsh/">
+      <a href="https://leetcode.com/iharishsh/" target="_blank">
       <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06' />
       </a>
-      <a href="https://www.kaggle.com/iharishsh">
+      <a href="https://www.kaggle.com/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white' />
       </a>
     </div>
@@ -67,37 +67,37 @@
   <h3>Social</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div>
-      <a href="https://www.quora.com/profile/Iharishsh">
+      <a href="https://www.quora.com/profile/Iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white' />
       </a>
-      <a href="https://www.reddit.com/user/iharishsh">
+      <a href="https://www.reddit.com/user/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white' />
       </a>
-      <a href="https://www.facebook.com/iharishh/">
+      <a href="https://www.facebook.com/iharishh/" target="_blank">
       <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' />
       </a>
-      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsTRTRRqPdrLKpBvmvlqbtLcgFvGqTRsdckxXtNLvtdklxtXZRlgVjGbVxRrTzbqdBkkpWGG">
+      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsTRTRRqPdrLKpBvmvlqbtLcgFvGqTRsdckxXtNLvtdklxtXZRlgVjGbVxRrTzbqdBkkpWGG" target="_blank">
       <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
       </a>
-      <a href="https://www.instagram.com/iharishsh/">
+      <a href="https://www.instagram.com/iharishsh/" target="_blank">
       <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' />
       </a>
-      <a href="https://www.linkedin.com/in/iharishsh/">
+      <a href="https://www.linkedin.com/in/iharishsh/" target="_blank">
       <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
       </a>
-      <a href="https://in.pinterest.com/iharishsh">
+      <a href="https://in.pinterest.com/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white' />
       </a>
-      <a href="https://www.snapchat.com/add/iharishsh">
+      <a href="https://www.snapchat.com/add/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white' />
       </a>
-      <a href="https://www.tumblr.com/iharishsh">
+      <a href="https://www.tumblr.com/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white' />
       </a>
-      <a href="https://twitter.com/iharishsh">
+      <a href="https://twitter.com/iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' />
       </a>
-      <a href="https://www.threads.net/@iharishsh">
+      <a href="https://www.threads.net/@iharishsh" target="_blank">
       <img src='https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white' />
       </a>
     </div>
