@@ -1,8 +1,8 @@
 <p>Hi there, I'm <b>Harish</b></p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=iharishsh&layout=compact' />
-    <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api?username=iharishsh&show_icons=true&theme=radical' />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: space-between; width: 100%;">
+    <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=iharishsh&layout=compact' />
+    <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=iharishsh&show_icons=true&theme=radical' />
 </div>
 
 <div style="clear:both; padding-top: 20px;">
