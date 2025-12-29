@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/duovb8lmk/image/upload/v1743089391/ok3cgvt965n31an1aceb.png" style="width:100%; height:auto; max-height:500px;" />
+  <img src="https://res.cloudinary.com/duovb8lmk/image/upload/v1766994363/ytcyp_tdejeu.png" style="width:100%; height:auto; max-height:500px;" />
 </div>
 
 <p align="center">
